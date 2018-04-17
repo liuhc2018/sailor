@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/AlgorithmPlatform-Log" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JsonQueryUtil" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RabbitUtil" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RedisUtil" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Sailor-AlgorithmTask" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Sailor-DocHub" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Sailor-Gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Sailor-Platform" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Sailor-Registry" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Sailor-Shared-Domain" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Shared-Util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/uaa" charset="UTF-8" />
+  </component>
+</project>

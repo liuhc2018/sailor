@@ -1,0 +1,1634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1974dc21-9244-40ca-a7d1-0ea5e7c81dcb" name="Default" comment="modify yml">
+      <change beforePath="" afterPath="$PROJECT_DIR$/JsonQueryUtil/JsonQueryUtil.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/RabbitUtil/RabbitUtil.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/RedisUtil/RedisUtil.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Sailor-Shared-Domain/src/main/java/com/cn/saic/scm/ai/shared/domain/nosql/JsonSchema.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Sailor-Shared-Domain/target/classes/com/cn/saic/scm/ai/shared/domain/nosql/JsonSchema.class" />
+      <change beforePath="$PROJECT_DIR$/JsonQueryUtil/target/JsonQueryUtil-0.0.1-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/JsonQueryUtil/target/JsonQueryUtil-0.0.1-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/JsonQueryUtil/target/classes/META-INF/MANIFEST.MF" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/JsonQueryUtil/target/classes/META-INF/maven/org.saic/JsonQueryUtil/pom.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/JsonQueryUtil/target/classes/META-INF/maven/org.saic/JsonQueryUtil/pom.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/JsonQueryUtil/target/classes/org/saic/JsonQuery/JsonQueryUtil.class" afterPath="$PROJECT_DIR$/JsonQueryUtil/target/classes/org/saic/JsonQuery/JsonQueryUtil.class" />
+      <change beforePath="$PROJECT_DIR$/JsonQueryUtil/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/JsonQueryUtil/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/JsonQueryUtil/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/JsonQueryUtil/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/JsonQueryUtil/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/JsonQueryUtil/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/JsonQueryUtil/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/JsonQueryUtil/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/JsonQueryUtil/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/JsonQueryUtil/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/JsonQueryUtil/target/surefire-reports/TEST-org.saic.JsonQueryUtil.JsonQueryTest.xml" afterPath="$PROJECT_DIR$/JsonQueryUtil/target/surefire-reports/TEST-org.saic.JsonQueryUtil.JsonQueryTest.xml" />
+      <change beforePath="$PROJECT_DIR$/JsonQueryUtil/target/surefire-reports/org.saic.JsonQueryUtil.JsonQueryTest.txt" afterPath="$PROJECT_DIR$/JsonQueryUtil/target/surefire-reports/org.saic.JsonQueryUtil.JsonQueryTest.txt" />
+      <change beforePath="$PROJECT_DIR$/RabbitUtil/target/RabbitUtil-0.0.1-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/RabbitUtil/target/RabbitUtil-0.0.1-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/RabbitUtil/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/RabbitUtil/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/RabbitUtil/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/RabbitUtil/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/RabbitUtil/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/RabbitUtil/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/RabbitUtil/target/surefire-reports/TEST-org.saic.RabbitUtil.RabbitUtilTest.xml" afterPath="$PROJECT_DIR$/RabbitUtil/target/surefire-reports/TEST-org.saic.RabbitUtil.RabbitUtilTest.xml" />
+      <change beforePath="$PROJECT_DIR$/RabbitUtil/target/surefire-reports/org.saic.RabbitUtil.RabbitUtilTest.txt" afterPath="$PROJECT_DIR$/RabbitUtil/target/surefire-reports/org.saic.RabbitUtil.RabbitUtilTest.txt" />
+      <change beforePath="$PROJECT_DIR$/RedisUtil/target/RedisUtil-0.0.1-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/RedisUtil/target/RedisUtil-0.0.1-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/RedisUtil/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/RedisUtil/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/RedisUtil/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/RedisUtil/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/RedisUtil/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/RedisUtil/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/RedisUtil/target/surefire-reports/TEST-org.saic.RedisUtil.RedisUtilTest.xml" afterPath="$PROJECT_DIR$/RedisUtil/target/surefire-reports/TEST-org.saic.RedisUtil.RedisUtilTest.xml" />
+      <change beforePath="$PROJECT_DIR$/RedisUtil/target/surefire-reports/org.saic.RedisUtil.RedisUtilTest.txt" afterPath="$PROJECT_DIR$/RedisUtil/target/surefire-reports/org.saic.RedisUtil.RedisUtilTest.txt" />
+      <change beforePath="$PROJECT_DIR$/Sailor-Registry/src/main/resources/config/bootstrap-test.yml" afterPath="$PROJECT_DIR$/Sailor-Registry/src/main/resources/config/bootstrap-test.yml" />
+      <change beforePath="$PROJECT_DIR$/Sailor-Shared-Domain/target/Sailor-Shared-Domain-0.0.1-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/Sailor-Shared-Domain/target/Sailor-Shared-Domain-0.0.1-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/Sailor-Shared-Domain/target/classes/com/cn/saic/scm/ai/shared/domain/sql/PlatformUser.class" afterPath="$PROJECT_DIR$/Sailor-Shared-Domain/target/classes/com/cn/saic/scm/ai/shared/domain/sql/PlatformUser.class" />
+      <change beforePath="$PROJECT_DIR$/Sailor-Shared-Domain/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/Sailor-Shared-Domain/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/Sailor-Shared-Domain/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/Sailor-Shared-Domain/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/Sailor-Shared-Domain/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/Sailor-Shared-Domain/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/Shared-Util/target/Shared-Util-0.0.1-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/Shared-Util/target/Shared-Util-0.0.1-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/Shared-Util/target/classes/META-INF/MANIFEST.MF" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Shared-Util/target/classes/META-INF/maven/com.cn.saic/Shared-Util/pom.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Shared-Util/target/classes/META-INF/maven/com.cn.saic/Shared-Util/pom.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Shared-Util/target/classes/com/cn/saic/scm/ai/shared/util/FTPUtil.class" afterPath="$PROJECT_DIR$/Shared-Util/target/classes/com/cn/saic/scm/ai/shared/util/FTPUtil.class" />
+      <change beforePath="$PROJECT_DIR$/Shared-Util/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/Shared-Util/target/maven-archiver/pom.properties" />
+      <change beforePath="$PROJECT_DIR$/Shared-Util/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/Shared-Util/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change beforePath="$PROJECT_DIR$/Shared-Util/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/Shared-Util/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+    </list>
+    <ignored path="$PROJECT_DIR$/Sailor-Registry/target/" />
+    <ignored path="$PROJECT_DIR$/Sailor-Platform/target/" />
+    <ignored path="$PROJECT_DIR$/Sailor-Gateway/target/" />
+    <ignored path="$PROJECT_DIR$/Sailor-Shared-Lib/target/" />
+    <ignored path="$PROJECT_DIR$/configserver/target/" />
+    <ignored path="$PROJECT_DIR$/AlgorithmPlatform-Log/target/" />
+    <ignored path="$PROJECT_DIR$/Sailor-DocHub/target/" />
+    <ignored path="$PROJECT_DIR$/Sailor-Config-Server/target/" />
+    <ignored path="$PROJECT_DIR$/jhipster-registry/target/" />
+    <ignored path="$PROJECT_DIR$/uaa/target/" />
+    <ignored path="$PROJECT_DIR$/Sailor-Shared-Domain/target/" />
+    <ignored path="$PROJECT_DIR$/RedisUtil/target/" />
+    <ignored path="$PROJECT_DIR$/Shared-Util/target/" />
+    <ignored path="$PROJECT_DIR$/JsonQueryUtil/target/" />
+    <ignored path="$PROJECT_DIR$/RabbitUtil/target/" />
+    <ignored path="$PROJECT_DIR$/Sailor-AlgorithmTask/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sailor-Gateway/src/main/resources/config/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="430">
+              <caret line="49" column="4" lean-forward="false" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sailor-Gateway/src/main/resources/config/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="20" column="15" lean-forward="true" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application-dev.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sailor-Gateway/src/main/resources/config/application-dev.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="21" column="77" lean-forward="false" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="77" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RedisTemplateConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sailor-Gateway/src/main/java/com/cn/saic/scm/ai/gateway/config/RedisTemplateConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Sailor-Platform/src/main/resources/config/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="24" column="28" lean-forward="false" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application-test.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sailor-Gateway/src/main/resources/config/application-test.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="44" column="40" lean-forward="false" selection-start-line="44" selection-start-column="40" selection-end-line="44" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap-test.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sailor-Gateway/src/main/resources/config/bootstrap-test.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="20" column="49" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Platform-test.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sailor-Registry/yml/PALMS/Platform-test.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Platform-dev.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sailor-Registry/yml/PALMS/Platform-dev.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Palms-dev.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Sailor-Registry/yml/PALMS/common/Palms-dev.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="46" lean-forward="false" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>active</find>
+      <find>port</find>
+      <find>esIndex</find>
+      <find>restClient</find>
+      <find>registerPlatformUser</find>
+      <find>exclude</find>
+      <find>exclu</find>
+      <find>actuator</find>
+      <find>spring-cloud-starter-config</find>
+      <find>amqp</find>
+      <find>liquibase</find>
+      <find>redisKeyName</find>
+      <find>send</find>
+      <find>getUserNameByToken</find>
+      <find>HikariCP</find>
+      <find>platformUser</find>
+      <find>RestTem</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/Sailor-Platform</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Sailor-Platform" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Sailor-Platform/src/main/java/com/cn/saic/scm/ai/platform/web/rest/TenantResource.java" />
+        <option value="$PROJECT_DIR$/Sailor-Platform/src/main/java/com/cn/saic/scm/ai/platform/web/rest/UserResource.java" />
+        <option value="$PROJECT_DIR$/Sailor-Gateway/src/main/java/com/cn/saic/scm/ai/gateway/repository/RoleRepository.java" />
+        <option value="$PROJECT_DIR$/Sailor-Gateway/src/main/java/com/cn/saic/scm/ai/gateway/repository/PlatformRoleRepository.java" />
+        <option value="$PROJECT_DIR$/Sailor-Platform/src/main/java/com/cn/saic/scm/ai/platform/web/rest/PlatformTenantResource.java" />
+        <option value="$PROJECT_DIR$/Sailor-Gateway/src/main/resources/config/liquibase/changelog/00000000000000_initial_schema.xml" />
+        <option value="$PROJECT_DIR$/Sailor-Gateway/src/main/resources/config/application-dev.yml" />
+        <option value="$PROJECT_DIR$/Sailor-Platform/src/main/java/com/cn/saic/scm/ai/platform/repository/PlatformUserRepository.java" />
+        <option value="$PROJECT_DIR$/Sailor-Gateway/src/main/java/com/cn/saic/scm/ai/gateway/repository/PlatformTenantRepository.java" />
+        <option value="$PROJECT_DIR$/Sailor-Gateway/src/main/java/com/cn/saic/scm/ai/gateway/security/CustomizedUserDetailsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/Sailor-Gateway/src/main/java/com/cn/saic/scm/ai/gateway/repository/PlatformUserRepository.java" />
+        <option value="$PROJECT_DIR$/Sailor-Platform/src/main/java/com/cn/saic/scm/ai/platform/repository/ProjectRepository.java" />
+        <option value="$PROJECT_DIR$/Sailor-Platform/src/main/java/com/cn/saic/scm/ai/platform/web/rest/form/PlatformRoleCreationForm.java" />
+        <option value="$PROJECT_DIR$/Sailor-Platform/src/main/java/com/cn/saic/scm/ai/platform/web/rest/form/PlatformRoleUpdateForm.java" />
+        <option value="$PROJECT_DIR$/Sailor-Platform/src/main/java/com/cn/saic/scm/ai/platform/web/rest/PlatformRoleResource.java" />
+        <option value="$PROJECT_DIR$/Sailor-Gateway/src/main/java/com/cn/saic/scm/ai/gateway/web/rest/SecurityResource.java" />
+        <option value="$PROJECT_DIR$/Sailor-Platform/src/main/java/com/cn/saic/scm/ai/platform/config/MicroserviceSecurityConfiguration.java" />
+        <option value="$PROJECT_DIR$/Sailor-Platform/src/main/java/com/cn/saic/scm/ai/platform/web/rest/form/PlatformUserCreationForm.java" />
+        <option value="$PROJECT_DIR$/Sailor-Platform/src/main/java/com/cn/saic/scm/ai/platform/web/rest/form/UserRegisterForm.java" />
+        <option value="$PROJECT_DIR$/Sailor-Shared-Domain/src/main/java/com/cn/saic/scm/ai/shared/domain/sql/Project.java" />
+        <option value="$PROJECT_DIR$/Sailor-Platform/src/main/java/com/cn/saic/scm/ai/platform/web/rest/ProjectResource.java" />
+        <option value="$PROJECT_DIR$/Sailor-Platform/src/main/resources/config/application.yml" />
+        <option value="$PROJECT_DIR$/Sailor-Platform/src/main/resources/config/application-dev.yml" />
+        <option value="$PROJECT_DIR$/Sailor-Platform/src/main/java/com/cn/saic/scm/ai/platform/web/rest/SendMail.java" />
+        <option value="$PROJECT_DIR$/Sailor-Gateway/src/main/resources/config/application.yml" />
+        <option value="$PROJECT_DIR$/Sailor-Platform/src/main/resources/config/application-test.yml" />
+        <option value="$PROJECT_DIR$/AlgorithmPlatform-Log/src/main/resources/config/application-test.yml" />
+        <option value="$PROJECT_DIR$/AlgorithmPlatform-Log/pom.xml" />
+        <option value="$PROJECT_DIR$/Sailor-Gateway/src/main/resources/config/application-test.yml" />
+        <option value="$PROJECT_DIR$/Sailor-Gateway/src/main/java/com/cn/saic/scm/ai/gateway/util/DBInitialization.java" />
+        <option value="$PROJECT_DIR$/Sailor-Registry/src/main/resources/config/bootstrap-test.yml" />
+        <option value="$PROJECT_DIR$/Sailor-Registry/src/main/resources/config/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/Sailor-Gateway/src/main/resources/config/bootstrap-test.yml" />
+        <option value="$PROJECT_DIR$/Sailor-Platform/src/main/resources/config/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/Sailor-Platform/src/main/resources/config/bootstrap-uat.yml" />
+        <option value="$PROJECT_DIR$/Sailor-Gateway/src/main/resources/config/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/Sailor-Gateway/src/main/resources/config/bootstrap-uat.yml" />
+        <option value="$PROJECT_DIR$/AlgorithmPlatform-Log/src/main/resources/config/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/AlgorithmPlatform-Log/src/main/resources/config/bootstrap-test.yml" />
+        <option value="$PROJECT_DIR$/AlgorithmPlatform-Log/src/main/resources/config/bootstrap-uat.yml" />
+        <option value="$PROJECT_DIR$/Sailor-Platform/src/main/java/com/cn/saic/scm/ai/platform/web/rest/SelfServiceResource.java" />
+        <option value="$PROJECT_DIR$/Sailor-Shared-Domain/src/main/java/com/cn/saic/scm/ai/shared/domain/sql/PlatformUser.java" />
+        <option value="$PROJECT_DIR$/Sailor-Platform/src/main/resources/config/bootstrap-test.yml" />
+        <option value="$PROJECT_DIR$/Sailor-Gateway/src/main/java/com/cn/saic/scm/ai/gateway/security/JHipUserDetailsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/Sailor-Gateway/src/main/java/com/cn/saic/scm/ai/gateway/config/SecurityConfiguration.java" />
+        <option value="$PROJECT_DIR$/Sailor-Gateway/src/main/java/com/cn/saic/scm/ai/gateway/security/JhipAuthenticationProvider.java" />
+        <option value="$PROJECT_DIR$/Sailor-Gateway/src/main/resources/logback-spring.xml" />
+        <option value="$PROJECT_DIR$/Sailor-Platform/src/main/resources/logback-spring.xml" />
+        <option value="$PROJECT_DIR$/Sailor-Platform/src/main/java/com/cn/saic/scm/ai/platform/web/rest/form/PlatformUserUpdateForm.java" />
+        <option value="$PROJECT_DIR$/Sailor-Platform/src/main/java/com/cn/saic/scm/ai/platform/web/rest/PlatformUserResource.java" />
+        <option value="$PROJECT_DIR$/Shared-Util/src/main/java/com/cn/saic/scm/ai/shared/util/BaseUtil.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/Sailor-DocHub/node_modules" />
+    <handled-path value="$PROJECT_DIR$/gatewayuaa/node_modules" />
+    <handled-path value="$PROJECT_DIR$/uaa/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="219" />
+    <option name="y" value="488" />
+    <option name="width" value="1851" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Sailor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sailor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sailor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sailor" type="462c0819:PsiDirectoryNode" />
+              <item name="Sailor-Gateway" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sailor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sailor" type="462c0819:PsiDirectoryNode" />
+              <item name="Sailor-Gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sailor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sailor" type="462c0819:PsiDirectoryNode" />
+              <item name="Sailor-Gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sailor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sailor" type="462c0819:PsiDirectoryNode" />
+              <item name="Sailor-Gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sailor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sailor" type="462c0819:PsiDirectoryNode" />
+              <item name="Sailor-Gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gateway" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sailor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sailor" type="462c0819:PsiDirectoryNode" />
+              <item name="Sailor-Gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sailor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sailor" type="462c0819:PsiDirectoryNode" />
+              <item name="Sailor-Gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sailor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sailor" type="462c0819:PsiDirectoryNode" />
+              <item name="Sailor-Gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sailor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sailor" type="462c0819:PsiDirectoryNode" />
+              <item name="Sailor-Platform" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sailor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sailor" type="462c0819:PsiDirectoryNode" />
+              <item name="Sailor-Platform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sailor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sailor" type="462c0819:PsiDirectoryNode" />
+              <item name="Sailor-Platform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sailor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sailor" type="462c0819:PsiDirectoryNode" />
+              <item name="Sailor-Platform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="docker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sailor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sailor" type="462c0819:PsiDirectoryNode" />
+              <item name="Sailor-Platform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sailor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sailor" type="462c0819:PsiDirectoryNode" />
+              <item name="Sailor-Platform" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sailor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sailor" type="462c0819:PsiDirectoryNode" />
+              <item name="Sailor-Registry" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sailor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sailor" type="462c0819:PsiDirectoryNode" />
+              <item name="Sailor-Registry" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sailor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sailor" type="462c0819:PsiDirectoryNode" />
+              <item name="Sailor-Registry" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sailor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sailor" type="462c0819:PsiDirectoryNode" />
+              <item name="Sailor-Registry" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sailor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sailor" type="462c0819:PsiDirectoryNode" />
+              <item name="Sailor-Registry" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sailor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sailor" type="462c0819:PsiDirectoryNode" />
+              <item name="Sailor-Registry" type="462c0819:PsiDirectoryNode" />
+              <item name="yml" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sailor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sailor" type="462c0819:PsiDirectoryNode" />
+              <item name="Sailor-Registry" type="462c0819:PsiDirectoryNode" />
+              <item name="yml" type="462c0819:PsiDirectoryNode" />
+              <item name="PALMS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sailor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sailor" type="462c0819:PsiDirectoryNode" />
+              <item name="Sailor-Registry" type="462c0819:PsiDirectoryNode" />
+              <item name="yml" type="462c0819:PsiDirectoryNode" />
+              <item name="PALMS" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Sailor-AlgorithmTask/pom.xml" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Sailor-Gateway/src/main/java/com/cn/saic/scm/ai/gateway/security" />
+      <recent name="$PROJECT_DIR$/AlgorithmPlatform-Log/src/main/resources/config" />
+      <recent name="$PROJECT_DIR$/Sailor-Gateway/src/main/resources/config" />
+      <recent name="$PROJECT_DIR$/Sailor-Platform/src/main/resources/config" />
+      <recent name="$PROJECT_DIR$/Sailor-Gateway/src/main/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cn.saic.scm.ai.gateway.repository" />
+      <recent name="io.github.jhipster.registry.config" />
+      <recent name="com.cn.saic.scm.ai.platform.repository" />
+      <recent name="com.cn.saic.scm.ai.platform.web.rest" />
+      <recent name="com.cn.saic.scm.ai.shared.domain.sql" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Sailor\Sailor-Platform\src\main\resources\config" />
+      <recent name="F:\Sailor\Sailor-Gateway\src\main\resources\config" />
+      <recent name="F:\Sailor\Sailor-Gateway\src\main\resources\config\liquibase" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.23888889" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.SailorGatewayApp">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration name="AlgorithmPlatformLogApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cn.saic.scm.ai.log.AlgorithmPlatformLogApp" />
+      <module name="algorithm-platform-log" />
+      <envs />
+    </configuration>
+    <configuration name="Sailor-Registry" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.github.jhipster.registry.JHipsterRegistryApp" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="jhipster-registry" />
+      <envs />
+    </configuration>
+    <configuration name="SailorDocHubApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cn.saic.scm.ai.dochub.SailorDocHubApp" />
+      <module name="scmai-doc-hub" />
+      <envs />
+    </configuration>
+    <configuration name="SailorGatewayApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cn.saic.scm.ai.gateway.SailorGatewayApp" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="sailor-gateway" />
+      <envs />
+    </configuration>
+    <configuration name="SailorPlatformApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cn.saic.scm.ai.platform.SailorPlatformApp" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="sailor-platform" />
+      <envs />
+    </configuration>
+    <configuration name="UaaApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cn.saic.scm.ai.uaa.UaaApp" />
+      <module name="uaa" />
+      <envs />
+    </configuration>
+    <configuration name="Unnamed" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cn.saic.scm.ai.SailorAlgorithmTaskApp" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="sailor-algorithm-task" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SHOW_IN_DASHBOARD" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.SailorPlatformApp" />
+      <item index="1" class="java.lang.String" itemvalue="Spring Boot.SailorGatewayApp" />
+      <item index="2" class="java.lang.String" itemvalue="Spring Boot.Sailor-Registry" />
+      <item index="3" class="java.lang.String" itemvalue="Spring Boot.Unnamed" />
+      <item index="4" class="java.lang.String" itemvalue="Spring Boot.SailorDocHubApp" />
+      <item index="5" class="java.lang.String" itemvalue="Spring Boot.UaaApp" />
+      <item index="6" class="java.lang.String" itemvalue="Spring Boot.AlgorithmPlatformLogApp" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1974dc21-9244-40ca-a7d1-0ea5e7c81dcb" name="Default" comment="" />
+      <created>1514964253572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1514964253572</updated>
+      <workItem from="1514964257793" duration="28278000" />
+      <workItem from="1515133156406" duration="23546000" />
+      <workItem from="1515638172983" duration="5553000" />
+      <workItem from="1515653042885" duration="1685000" />
+      <workItem from="1515744304629" duration="53340000" />
+      <workItem from="1516598510341" duration="140000" />
+      <workItem from="1516762693268" duration="3852000" />
+      <workItem from="1516777657056" duration="87000" />
+      <workItem from="1516778763472" duration="59299000" />
+      <workItem from="1517274695448" duration="9686000" />
+      <workItem from="1517297820972" duration="4986000" />
+      <workItem from="1517369800443" duration="14594000" />
+      <workItem from="1517388159386" duration="231000" />
+      <workItem from="1517388450123" duration="11000" />
+      <workItem from="1517474203704" duration="12880000" />
+      <workItem from="1517821535551" duration="27412000" />
+      <workItem from="1518053340566" duration="734000" />
+      <workItem from="1518069052919" duration="14503000" />
+      <workItem from="1519261947559" duration="2147000" />
+      <workItem from="1519264672148" duration="22185000" />
+      <workItem from="1519620529179" duration="3546000" />
+      <workItem from="1519975342484" duration="3879000" />
+      <workItem from="1520315908719" duration="588000" />
+      <workItem from="1521007802064" duration="596000" />
+      <workItem from="1521429623278" duration="2680000" />
+      <workItem from="1521681398145" duration="599000" />
+      <workItem from="1521787558502" duration="697000" />
+      <workItem from="1521790613031" duration="601000" />
+      <workItem from="1522029137136" duration="1202000" />
+      <workItem from="1522113610344" duration="1913000" />
+      <workItem from="1522136397715" duration="1000" />
+      <workItem from="1522200636210" duration="3571000" />
+      <workItem from="1522634343352" duration="635000" />
+      <workItem from="1523153709088" duration="582000" />
+      <workItem from="1523174242944" duration="665000" />
+      <workItem from="1523341778798" duration="579000" />
+      <workItem from="1523429447724" duration="2669000" />
+      <workItem from="1523869268955" duration="217000" />
+    </task>
+    <task id="LOCAL-00077" summary="modify yml">
+      <created>1517536174020</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1517536174020</updated>
+    </task>
+    <task id="LOCAL-00078" summary="modify yml">
+      <created>1517536455940</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1517536455940</updated>
+    </task>
+    <task id="LOCAL-00079" summary="modify yml">
+      <created>1517538513085</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1517538513085</updated>
+    </task>
+    <task id="LOCAL-00080" summary="modify yml">
+      <created>1517538713880</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1517538713880</updated>
+    </task>
+    <task id="LOCAL-00081" summary="modify yml">
+      <created>1517539522448</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1517539522448</updated>
+    </task>
+    <task id="LOCAL-00082" summary="modify">
+      <created>1517819202765</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1517819202765</updated>
+    </task>
+    <task id="LOCAL-00083" summary="modify yml">
+      <created>1517821025593</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1517821025593</updated>
+    </task>
+    <task id="LOCAL-00084" summary="modify">
+      <created>1517887515844</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1517887515844</updated>
+    </task>
+    <task id="LOCAL-00085" summary="modify yml">
+      <created>1517887571997</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1517887571997</updated>
+    </task>
+    <task id="LOCAL-00086" summary="modify yml">
+      <created>1517897135650</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1517897135650</updated>
+    </task>
+    <task id="LOCAL-00087" summary="modify yml">
+      <created>1517897655967</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1517897655967</updated>
+    </task>
+    <task id="LOCAL-00088" summary="modify yml">
+      <created>1517897876817</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1517897876817</updated>
+    </task>
+    <task id="LOCAL-00089" summary="modify yml">
+      <created>1517899382310</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1517899382310</updated>
+    </task>
+    <task id="LOCAL-00090" summary="modify yml">
+      <created>1517899646988</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1517899646988</updated>
+    </task>
+    <task id="LOCAL-00091" summary="modify yml">
+      <created>1517900223092</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1517900223092</updated>
+    </task>
+    <task id="LOCAL-00092" summary="modify yml">
+      <created>1517901448372</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1517901448372</updated>
+    </task>
+    <task id="LOCAL-00093" summary="modify yml">
+      <created>1517901805625</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1517901805625</updated>
+    </task>
+    <task id="LOCAL-00094" summary="modify yml">
+      <created>1517916115357</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1517916115357</updated>
+    </task>
+    <task id="LOCAL-00095" summary="modify yml">
+      <created>1517918752771</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1517918752771</updated>
+    </task>
+    <task id="LOCAL-00096" summary="modify yml">
+      <created>1517919313519</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1517919313519</updated>
+    </task>
+    <task id="LOCAL-00097" summary="modify yml">
+      <created>1517919748791</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1517919748791</updated>
+    </task>
+    <task id="LOCAL-00098" summary="modify yml">
+      <created>1517920330338</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1517920330338</updated>
+    </task>
+    <task id="LOCAL-00099" summary="modify yml">
+      <created>1517920457102</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1517920457102</updated>
+    </task>
+    <task id="LOCAL-00100" summary="modify yml">
+      <created>1517920637690</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1517920637690</updated>
+    </task>
+    <task id="LOCAL-00101" summary="modify yml">
+      <created>1517922745649</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1517922745650</updated>
+    </task>
+    <task id="LOCAL-00102" summary="modify yml">
+      <created>1517923032317</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1517923032317</updated>
+    </task>
+    <task id="LOCAL-00103" summary="modify yml">
+      <created>1517923342544</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1517923342544</updated>
+    </task>
+    <task id="LOCAL-00104" summary="modify yml">
+      <created>1517923903001</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1517923903002</updated>
+    </task>
+    <task id="LOCAL-00105" summary="modify yml">
+      <created>1518151984642</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1518151984643</updated>
+    </task>
+    <task id="LOCAL-00106" summary="modify yml">
+      <created>1518152637901</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1518152637901</updated>
+    </task>
+    <task id="LOCAL-00107" summary="modify yml">
+      <created>1519350272730</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1519350272731</updated>
+    </task>
+    <task id="LOCAL-00108" summary="modify yml">
+      <created>1519350595294</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1519350595295</updated>
+    </task>
+    <task id="LOCAL-00109" summary="modify yml">
+      <created>1519351034680</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1519351034680</updated>
+    </task>
+    <task id="LOCAL-00110" summary="modify yml">
+      <created>1519351448646</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1519351448646</updated>
+    </task>
+    <task id="LOCAL-00111" summary="modify yml">
+      <created>1519352198740</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1519352198740</updated>
+    </task>
+    <task id="LOCAL-00112" summary="modify yml">
+      <created>1519353251135</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1519353251135</updated>
+    </task>
+    <task id="LOCAL-00113" summary="modify yml">
+      <created>1519361619891</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1519361619891</updated>
+    </task>
+    <task id="LOCAL-00114" summary="modify yml">
+      <created>1519361628457</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1519361628458</updated>
+    </task>
+    <task id="LOCAL-00115" summary="modify yml">
+      <created>1519362203930</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1519362203931</updated>
+    </task>
+    <task id="LOCAL-00116" summary="modify yml">
+      <created>1519362214225</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1519362214225</updated>
+    </task>
+    <task id="LOCAL-00117" summary="modify yml">
+      <created>1519362319400</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1519362319401</updated>
+    </task>
+    <task id="LOCAL-00118" summary="modify yml">
+      <created>1519367244091</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1519367244091</updated>
+    </task>
+    <task id="LOCAL-00119" summary="modify yml">
+      <created>1519461776639</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1519461776639</updated>
+    </task>
+    <task id="LOCAL-00120" summary="modify yml">
+      <created>1519715376424</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1519715376425</updated>
+    </task>
+    <task id="LOCAL-00121" summary="modify yml">
+      <created>1521790213521</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1521790213522</updated>
+    </task>
+    <task id="LOCAL-00122" summary="modify yml">
+      <created>1521790246226</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1521790246227</updated>
+    </task>
+    <task id="LOCAL-00123" summary="modify yml">
+      <created>1522305599905</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1522305599906</updated>
+    </task>
+    <task id="LOCAL-00124" summary="modify yml">
+      <created>1523153849263</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1523153849264</updated>
+    </task>
+    <task id="LOCAL-00125" summary="modify yml">
+      <created>1523153892256</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1523153892256</updated>
+    </task>
+    <option name="localTasksCounter" value="126" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="310369000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="219" y="488" width="1857" height="1212" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42987248" sideWeight="0.25283018" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13045822" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38135594" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42987248" sideWeight="0.7471698" order="11" side_tool="false" content_ui="combo" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24225865" sideWeight="0.43989217" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3114754" sideWeight="0.46145552" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23827493" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39344263" sideWeight="0.46361187" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/jhipster-registry" />
+      <path value="$PROJECT_DIR$/Sailor-DocHub" />
+      <path value="$PROJECT_DIR$/Sailor-Config-Server" />
+      <path value="$PROJECT_DIR$/Sailor-Shared-Lib" />
+    </ignored-roots>
+    <MESSAGE value="update" />
+    <MESSAGE value="modif" />
+    <MESSAGE value="modify" />
+    <MESSAGE value="modify yml" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify yml" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Sailor-Platform/src/main/java/com/cn/saic/scm/ai/platform/config/DatabaseConfiguration.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Sailor-Platform/src/main/java/com/cn/saic/scm/ai/platform/config/DatabaseConfiguration.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Sailor-Platform/src/main/java/com/cn/saic/scm/ai/platform/web/rest/ProjectResource.java</url>
+          <line>194</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Sailor-Platform/src/main/java/com/cn/saic/scm/ai/platform/web/rest/SelfServiceResource.java</url>
+          <line>163</line>
+          <properties />
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="84" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Sailor-Platform/src/main/java/com/cn/saic/scm/ai/platform/web/rest/SelfServiceResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2052">
+          <caret line="147" column="47" lean-forward="false" selection-start-line="147" selection-start-column="47" selection-end-line="147" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-Gateway/src/main/java/com/cn/saic/scm/ai/gateway/config/apidoc/GatewaySwaggerResourcesProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="38" column="5" lean-forward="false" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-Gateway/src/main/resources/config/bootstrap-uat.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="28" lean-forward="false" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-Platform/src/main/resources/config/bootstrap-uat.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="49" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-Gateway/src/main/java/com/cn/saic/scm/ai/gateway/util/DBInitialization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="70" column="12" lean-forward="false" selection-start-line="70" selection-start-column="12" selection-end-line="87" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-Platform/src/main/resources/config/bootstrap-test.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="50" lean-forward="false" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-Platform/src/main/java/com/cn/saic/scm/ai/platform/web/rest/PlatformTenantResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="21" column="58" lean-forward="false" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-Gateway/src/main/java/com/cn/saic/scm/ai/gateway/security/CustomizedAuthenticationProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-Gateway/src/main/java/com/cn/saic/scm/ai/gateway/repository/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="16" column="17" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-Gateway/src/main/java/com/cn/saic/scm/ai/gateway/web/rest/ProfileInfoResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-Gateway/src/main/java/com/cn/saic/scm/ai/gateway/web/rest/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-Gateway/src/main/java/com/cn/saic/scm/ai/gateway/config/SecurityConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="95" column="10" lean-forward="false" selection-start-line="95" selection-start-column="10" selection-end-line="97" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-Gateway/src/main/java/com/cn/saic/scm/ai/gateway/security/UserNotActivatedException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-Gateway/src/main/java/com/cn/saic/scm/ai/gateway/security/PasswordCrypto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE.jar!/org/springframework/security/authentication/AuthenticationManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-Gateway/src/main/java/com/cn/saic/scm/ai/gateway/security/CustomizedUserDetailsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-Gateway/src/main/java/com/cn/saic/scm/ai/gateway/security/JhipAuthenticationProvider.java" />
+    <entry file="file://$PROJECT_DIR$/Sailor-Gateway/src/main/java/com/cn/saic/scm/ai/gateway/web/rest/SecurityResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-Gateway/src/main/java/com/cn/saic/scm/ai/gateway/security/DomainUserDetailsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-Gateway/src/main/java/com/cn/saic/scm/ai/gateway/security/CustomizedAuthenticationManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-Gateway/src/main/java/com/cn/saic/scm/ai/gateway/security/JHipUserDetailsServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/Sailor-Gateway/src/main/java/com/cn/saic/scm/ai/gateway/security/JhipAuthenticationManager.java" />
+    <entry file="file://$PROJECT_DIR$/Sailor-Gateway/src/main/java/com/cn/saic/scm/ai/gateway/web/rest/GatewayResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="40" column="64" lean-forward="false" selection-start-line="40" selection-start-column="64" selection-end-line="40" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-Gateway/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4500">
+          <caret line="250" column="12" lean-forward="false" selection-start-line="250" selection-start-column="16" selection-end-line="250" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-Platform/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4536">
+          <caret line="252" column="12" lean-forward="false" selection-start-line="252" selection-start-column="16" selection-end-line="252" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-Gateway/src/main/java/com/cn/saic/scm/ai/gateway/web/rest/UserJWTController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="46" column="59" lean-forward="false" selection-start-line="46" selection-start-column="59" selection-end-line="46" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-Platform/src/main/java/com/cn/saic/scm/ai/platform/web/rest/form/PlatformUserUpdateForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="25" column="41" lean-forward="false" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shared-Util/src/main/java/com/cn/saic/scm/ai/shared/util/AutoInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2754">
+          <caret line="162" column="27" lean-forward="false" selection-start-line="162" selection-start-column="27" selection-end-line="162" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shared-Util/src/main/java/com/cn/saic/scm/ai/shared/util/CopyUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2862">
+          <caret line="166" column="39" lean-forward="false" selection-start-line="166" selection-start-column="39" selection-end-line="166" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Shared-Util/src/main/java/com/cn/saic/scm/ai/shared/util/BaseUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="31" column="29" lean-forward="false" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-Platform/src/main/java/com/cn/saic/scm/ai/platform/web/rest/PlatformUserResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2772">
+          <caret line="196" column="9" lean-forward="false" selection-start-line="196" selection-start-column="9" selection-end-line="196" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-AlgorithmTask/src/main/resources/config/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="12" lean-forward="false" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-AlgorithmTask/src/main/resources/config/application-test.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-AlgorithmTask/src/main/resources/config/bootstrap-prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-AlgorithmTask/src/main/docker/jhipster-registry.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-DocHub/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-Platform/src/main/resources/config/bootstrap-prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-Platform/src/main/docker/elasticsearch.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-Registry/src/main/resources/config/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1584">
+          <caret line="88" column="13" lean-forward="false" selection-start-line="88" selection-start-column="13" selection-end-line="88" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-Registry/yml/PALMS/Registry-test.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-Registry/yml/PALMS/Registry-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-Registry/yml/PALMS/Platform-test.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-Registry/yml/PALMS/Platform-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-Registry/yml/PALMS/common/Palms-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="46" lean-forward="false" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-Gateway/src/main/resources/config/bootstrap-test.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="49" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-Gateway/src/main/resources/config/application-test.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="44" column="40" lean-forward="false" selection-start-line="44" selection-start-column="40" selection-end-line="44" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-Gateway/src/main/resources/config/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="49" column="4" lean-forward="false" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-Gateway/src/main/resources/config/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="15" lean-forward="true" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-Gateway/src/main/resources/config/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="21" column="77" lean-forward="false" selection-start-line="21" selection-start-column="68" selection-end-line="21" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-Gateway/src/main/java/com/cn/saic/scm/ai/gateway/config/RedisTemplateConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sailor-Platform/src/main/resources/config/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="28" lean-forward="false" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>jhipster-registry:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>jhipster-registry</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JsonQueryUtil/JsonQueryUtil.iml" filepath="$PROJECT_DIR$/JsonQueryUtil/JsonQueryUtil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RabbitUtil/RabbitUtil.iml" filepath="$PROJECT_DIR$/RabbitUtil/RabbitUtil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RedisUtil/RedisUtil.iml" filepath="$PROJECT_DIR$/RedisUtil/RedisUtil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Sailor.iml" filepath="$PROJECT_DIR$/.idea/Sailor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sailor-Shared-Domain/Sailor-Shared-Domain.iml" filepath="$PROJECT_DIR$/Sailor-Shared-Domain/Sailor-Shared-Domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shared-Util/Shared-Util.iml" filepath="$PROJECT_DIR$/Shared-Util/Shared-Util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlgorithmPlatform-Log/algorithm-platform-log.iml" filepath="$PROJECT_DIR$/AlgorithmPlatform-Log/algorithm-platform-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sailor-Registry/jhipster-registry.iml" filepath="$PROJECT_DIR$/Sailor-Registry/jhipster-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sailor-AlgorithmTask/sailor-algorithm-task.iml" filepath="$PROJECT_DIR$/Sailor-AlgorithmTask/sailor-algorithm-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sailor-Gateway/sailor-gateway.iml" filepath="$PROJECT_DIR$/Sailor-Gateway/sailor-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sailor-Platform/sailor-platform.iml" filepath="$PROJECT_DIR$/Sailor-Platform/sailor-platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sailor-DocHub/scmai-doc-hub.iml" filepath="$PROJECT_DIR$/Sailor-DocHub/scmai-doc-hub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uaa/uaa.iml" filepath="$PROJECT_DIR$/uaa/uaa.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/AlgorithmPlatform-Log" />
+    <file type="web" url="file://$PROJECT_DIR$/jhipster-registry" />
+    <file type="web" url="file://$PROJECT_DIR$/Sailor-AlgorithmTask" />
+    <file type="web" url="file://$PROJECT_DIR$/Sailor-Config-Server" />
+    <file type="web" url="file://$PROJECT_DIR$/Sailor-DocHub" />
+    <file type="web" url="file://$PROJECT_DIR$/Sailor-Gateway" />
+    <file type="web" url="file://$PROJECT_DIR$/Sailor-Platform" />
+    <file type="web" url="file://$PROJECT_DIR$/Sailor-Registry" />
+    <file type="web" url="file://$PROJECT_DIR$/uaa" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Sailor-Registry/pom.xml" />
+        <option value="$PROJECT_DIR$/Sailor-Gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/Sailor-Platform/pom.xml" />
+        <option value="$PROJECT_DIR$/Sailor-Shared-Lib/pom.xml" />
+        <option value="$PROJECT_DIR$/configserver/pom.xml" />
+        <option value="$PROJECT_DIR$/AlgorithmPlatform-Log/pom.xml" />
+        <option value="$PROJECT_DIR$/Sailor-DocHub/pom.xml" />
+        <option value="$PROJECT_DIR$/jhipster-registry/pom.xml" />
+        <option value="$PROJECT_DIR$/uaa/pom.xml" />
+        <option value="$PROJECT_DIR$/JsonQueryUtil/pom.xml" />
+        <option value="$PROJECT_DIR$/RabbitUtil/pom.xml" />
+        <option value="$PROJECT_DIR$/RedisUtil/pom.xml" />
+        <option value="$PROJECT_DIR$/Sailor-Shared-Domain/pom.xml" />
+        <option value="$PROJECT_DIR$/Shared-Util/pom.xml" />
+        <option value="$PROJECT_DIR$/Sailor-AlgorithmTask/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

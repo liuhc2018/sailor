@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sailor-algorithm-task:war">
+    <output-path>$PROJECT_DIR$/Sailor-AlgorithmTask/target</output-path>
+    <root id="archive" name="sailor-algorithm-task-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="sailor-algorithm-task:war exploded" />
+    </root>
+  </artifact>
+</component>

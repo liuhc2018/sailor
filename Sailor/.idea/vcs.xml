@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/AlgorithmPlatform-Log" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JsonQueryUtil" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RabbitUtil" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RedisUtil" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sailor-AlgorithmTask" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sailor-Gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sailor-Platform" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sailor-Registry" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sailor-Shared-Domain" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Shared-Util" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/target/config" vcs="Git" />
+  </component>
+</project>

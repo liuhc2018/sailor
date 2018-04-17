@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="scmai-doc-hub:war">
+    <output-path>$PROJECT_DIR$/Sailor-DocHub/target</output-path>
+    <root id="archive" name="scmai-doc-hub-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="scmai-doc-hub:war exploded" />
+    </root>
+  </artifact>
+</component>

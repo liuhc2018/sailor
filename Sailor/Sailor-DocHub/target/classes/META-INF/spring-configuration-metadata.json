@@ -1,0 +1,9 @@
+{
+  "groups": [{
+    "name": "application",
+    "sourceType": "com.cn.saic.scm.ai.dochub.config.ApplicationProperties",
+    "type": "com.cn.saic.scm.ai.dochub.config.ApplicationProperties"
+  }],
+  "hints": [],
+  "properties": []
+}

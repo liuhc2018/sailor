@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="algorithm-platform-log" />
+        <module name="configserver" />
+        <module name="jhipster-registry" />
+        <module name="JsonQueryUtil" />
+        <module name="RabbitUtil" />
+        <module name="RedisUtil" />
+        <module name="sailor-algorithm-task" />
+        <module name="sailor-gateway" />
+        <module name="sailor-platform" />
+        <module name="Sailor-Shared-Domain" />
+        <module name="scmai-doc-hub" />
+        <module name="Shared-Util" />
+        <module name="uaa" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="algorithm-platform-log" target="1.8" />
+      <module name="configserver" target="1.7" />
+      <module name="jhipster-registry" target="1.8" />
+      <module name="jhipster-registry (1)" target="1.8" />
+      <module name="JsonQueryUtil" target="1.8" />
+      <module name="RabbitUtil" target="1.8" />
+      <module name="RedisUtil" target="1.8" />
+      <module name="sailor-algorithm-task" target="1.8" />
+      <module name="sailor-config-server" target="1.8" />
+      <module name="sailor-gateway" target="1.8" />
+      <module name="sailor-platform" target="1.8" />
+      <module name="Sailor-Shared-Domain" target="1.8" />
+      <module name="Sailor-Shared-Lib" target="1.8" />
+      <module name="scmai-doc-hub" target="1.8" />
+      <module name="Shared-Util" target="1.8" />
+      <module name="uaa" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
